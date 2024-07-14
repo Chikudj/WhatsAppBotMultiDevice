@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot-md",
+  "name": "°†° «[𝐃𝐉 𝐁𝐎𝐓]» °†°",
   "description": "nodejs whatsapp bot",
   "logo": "https://i.ibb.co/sWmwD0k/e0bslrup.jpg",
   "repository": "https://github.com/jacktheboss220/WhatsAppBotMultiDevice",
@@ -15,7 +15,7 @@
   ],
   "env": {
     "PREFIX": {
-      "description": "Bot Prefix to use before commands",
+      "description": "*",
       "required": true
     },
     "MONGODB_KEY": {
@@ -23,11 +23,11 @@
       "required": true
     },
     "myNumber": {
-      "description": "Your WhatsApp Number to use as bot owner",
+      "description": "+255675104490",
       "required": true
     },
     "botNumber": {
-      "description": "Your WhatsApp Bot Number to use as bot",
+      "description": "+255675104490",
       "required": true
     },
     "REMOVE_BG_KEY": {
